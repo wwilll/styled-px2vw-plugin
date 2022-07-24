@@ -23,6 +23,12 @@
   ],
   "author": "WWILL",
   "license": "MIT",
+  "files": [
+    "dist",
+    "lib",
+    "es",
+    "index.d.ts"
+  ],
   "bugs": {
     "url": "https://github.com/wwilll/styled-px2vw-plugin/issues"
   },
