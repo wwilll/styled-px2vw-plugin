@@ -1,6 +1,6 @@
 {
   "name": "styled-px2vw-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extension of styled-components based on styled-px2vw",
   "main": "lib/index.js",
   "module": "es/index.js",
